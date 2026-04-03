@@ -1,0 +1,14 @@
+{
+  "name": "personal-context-loader",
+  "owner": { "name": "Mark Tait", "email": "mark.tait@kidstrong.com" },
+  "metadata": { "description": "Auto-loads your personal context doc from Google Drive at the start of every Cowork session." },
+  "plugins": [{
+    "name": "personal-context-loader",
+    "source": "./",
+    "description": "Automatically loads your personal context doc from Google Drive at the start of every session.",
+    "version": "0.1.0",
+    "author": { "name": "Mark Tait", "email": "mark.tait@kidstrong.com" },
+    "category": "productivity",
+    "keywords": ["context", "personalization", "google-drive", "productivity"]
+  }]
+}
