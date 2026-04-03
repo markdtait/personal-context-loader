@@ -1,0 +1,13 @@
+{
+  "name": "personal-context-loader",
+  "version": "0.1.0",
+  "description": "Automatically loads a personal context document from Google Drive at the start of every Cowork session, so Claude always knows who you are, how you think, and what you are working on.",
+  "author": {
+    "name": "Mark Tait",
+    "email": "mark.tait@kidstrong.com"
+  },
+  "repository": "https://github.com/markdtait/personal-context-loader",
+  "homepage": "https://github.com/markdtait/personal-context-loader#readme",
+  "license": "MIT",
+  "keywords": ["context", "personalization", "productivity", "google-drive"]
+}
